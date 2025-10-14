@@ -36,3 +36,14 @@ Changes to do:
 
   
 
+## 10/14/2025 - Routed the PCB  
+
+The original design was getting a bit too complicated to route, so I changed it to become a FeatherWing instead.
+
+This way I don't have to design the microcontroller portion and the board is more simplified.
+
+The feature set is the same as before except for unnecessary components removed, both before and because of this change.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIyNywicHVyIjoiYmxvYl9pZCJ9fQ==--e374990ce4cf2d8c2f84eb2bd1db25a351271eeb/image.png)
+  
+
