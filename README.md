@@ -1,8 +1,12 @@
-# FRC ESP32 DevKit Lite
+# ESP32 CAN DevKit Lite
+<img width="1190" height="918" alt="ESP32 CAN DevKit Lite" src="https://github.com/user-attachments/assets/ea8203f1-9dc0-4a2c-88fb-41216fb00c24" />
+
 This is a lite version of the ESP32 FRC DevKit forked from IronMaple's original design: https://oshwlab.com/sikaxn/seal-v2-dev-board.
 
 Original Lite design is incomplete and temporarily not being worked on, while the FeatherLite design is almost practically complete.
 The only difference is that the Lite design is one board with everything on it while the FeatherLite is a FeatherWing that requires a [ESP32 Feather board]([url](https://www.pishop.ca/product/adafruit-esp32-feather-v2-with-headers-8mb-flash-2-mb-psram-stemma-qt/)) (or [third party compatible]([url](https://www.sparkfun.com/sparkfun-thing-plus-esp32-wroom-usb-c.html))) to work.
+
+This board is designed to be used on FRC robots as an easy way to connect COTS sensors and devices to the roboRIO or Systemcore.
 
 Contributions are welcome!
 
@@ -28,3 +32,5 @@ Licensed under GPLv3
 
 Note: Not affiliated with IronMaple, FIRST HQ, or any other companies mentioned here in any way. All trademarks are properties of their respective owners.
 This is an unofficial community project made by a member of a FRC team.
+
+Images:
