@@ -47,3 +47,11 @@ The feature set is the same as before except for unnecessary components removed,
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIyNywicHVyIjoiYmxvYl9pZCJ9fQ==--e374990ce4cf2d8c2f84eb2bd1db25a351271eeb/image.png)
   
 
+## 10/19/2025 - Added ground plane and silkscreen  
+
+Finished adding the ground plane and the silkscreen in this timeframe, making it look more professional and improves heat distribution.
+Now I need to make a few finishing touches and I should be ready to ship.
+- Add a overvoltage protection chip
+- Fix the power connection to the Feather
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--87dbed5851eefa37b95a8994a625a8297534aa9e/image.png)  
+
