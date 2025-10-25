@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **FRC ESP32 DevKit Lite**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/301).
-
-
 ## 10/8/2025 - Forked the design  
 
 Forked from: https://oshwlab.com/sikaxn/seal-v2-dev-board
@@ -54,4 +50,12 @@ Now I need to make a few finishing touches and I should be ready to ship.
 - Add a overvoltage protection chip
 - Fix the power connection to the Feather
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--87dbed5851eefa37b95a8994a625a8297534aa9e/image.png)  
+
+## 10/25/2025 - Changed the connectors and added rounded edges  
+
+Title mostly self explanatory, but here is a slightly more detailed explanation:
+- Added rounded edges to make the board look nicer
+- Changed the connectors to the Molex SL ones, which are the same ones Systemcore uses and should be backwards compatible with the original roboRIO's servo style header pin connector.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--b9031aacad4fa4875134d00796e301c48af1c9bd/image.png)
+  
 
