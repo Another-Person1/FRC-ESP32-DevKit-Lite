@@ -36,11 +36,8 @@ This is an unofficial community project made by a member of a FRC team.
 Images:
 
 Current version:
-<img width="1217" height="903" alt="image" src="https://github.com/user-attachments/assets/e2ed16b8-55e1-4113-98e8-f8e19bcb3f00" />
-<img width="1022" height="967" alt="image" src="https://github.com/user-attachments/assets/bf0b8461-417b-406a-9097-ef32be139141" />
-Older versions:
-<img width="1190" height="918" alt="Screenshot 2025-10-16 143512" src="https://github.com/user-attachments/assets/54167d5f-30e5-414c-9b37-44e80ea0b9e0" />
-<img width="1202" height="878" alt="Screenshot 2025-10-14 142027" src=<img width="745" height="478" alt="Screenshot 2025-10-09 141735" src="https://github.com/user-attachments/assets/fa76f11c-d7ac-4cd2-bbde-e754d3706722" />
-<img width="762" height="752" alt="Screenshot 2025-10-21 103705" src="https://github.com/user-attachments/assets/8bb56435-0473-402c-a1a6-29104f048e51" />
-"https://github.com/user-attachments/assets/a613beeb-bef2-44ba-b6b5-15edc63835d9" />
-<img width="977" height="980" alt="Screenshot 2025-10-14 141830" src="https://github.com/user-attachments/assets/92ed4460-b143-47d0-a67c-65b120262d71" />
+<img width="1190" height="918" alt="Screenshot 2025-10-16 143512" src="https://github.com/user-attachments/assets/b29ffcb3-bd00-4fda-98e8-5c3ea5cf885a" />
+<img width="1202" height="878" alt="Screenshot 2025-10-14 142027" src="https://github.com/user-attachments/assets/6de99b01-b0de-4ca7-8fe1-4bc9f0f4efad" />
+<img width="977" height="980" alt="Screenshot 2025-10-14 141830" src="https://github.com/user-attachments/assets/038a739b-0e1b-43f0-8798-ec85cf8680da" />
+<img width="745" height="478" alt="Screenshot 2025-10-09 141735" src="https://github.com/user-attachments/assets/1012e505-b7f7-4b5e-979b-eaa82975cea2" />
+<img width="762" height="752" alt="Screenshot 2025-10-21 103705" src="https://github.com/user-attachments/assets/a31e0bbb-9a39-401e-bce0-10b1a43d956e" />
