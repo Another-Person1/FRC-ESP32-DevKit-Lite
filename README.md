@@ -16,10 +16,8 @@ Features:
 - Added IO ports for connecting a variety of COTS sensors and encoders
 - STEMMA compatible connector for connecting COTS I2C devices
 - NeoPixel connector for connecting to NeoPixel-compatible addressable LED products (strips, bars??, etc.)
-- Updated with latest ESP32 module (ESP32-WROOM-32E) as previous one was discontinued
+- Adafruit Feather style microcontroller development board connector so that you can connect ESP32 Feathers (or Feather compatibles)
 - RFID battery tracking over SPI (RC522, more controllers may be supported in the future)
-- CP2102N USB-Serial chip (faster and not obsolete compared to CP2104)
-- JTAG connector for advanced programming and debugging (note: only on Original Lite design)
 - WAGO connector for CAN bus
 - more to come!
 
